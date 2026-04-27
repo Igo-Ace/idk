@@ -459,14 +459,13 @@ function startPhotoShow() {
       image: "./images/yt.jpeg",
     },
     {
-      text: "02 Juni 25",
-      image: "./images/GM.jpeg",
-    },
-    {
   text: "31 Oktober 24",
   image: "./images/UJANG.jpeg",
 },
-   
+    {
+   text: "02 Juni 25",
+   image: "./images/GM.jpeg",
+ },
   ];
 
   console.log("Total photos:", photos.length);
