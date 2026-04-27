@@ -462,6 +462,10 @@ function startPhotoShow() {
       text: "02 Juni 25",
       image: "./images/GM.jpeg",
     },
+    {
+  text: "31 Oktober 24",
+  image: "./images/UJANG.jpeg",
+},
    
   ];
 
